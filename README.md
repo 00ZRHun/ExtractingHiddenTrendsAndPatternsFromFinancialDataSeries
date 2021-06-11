@@ -1,0 +1,2 @@
+# ExtractingHiddenTrendsAndPatternsFromFinancialDataSeries
+# ExtractingHiddenTrendsAndPatternsFromFinancialDataSeries
